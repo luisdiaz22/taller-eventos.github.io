@@ -1,5 +1,5 @@
 document.getElementById("Saludo").addEventListener("click", function() {
-    alert("Hola! Soy Boton");
+    alert("Hola! Soy el div");
 });
 
 document.querySelector("#Saludo button").addEventListener("click", function(event) {
